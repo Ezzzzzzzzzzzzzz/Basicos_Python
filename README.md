@@ -1,2 +1,2 @@
-# Basicos_Python
-Repositorio que contiene los ejercicios basicos de Python en Jupyter del Diplomado IoT de Samsung Innovation Campus
+# Introduccion_a_python
+Introduccion a python en el dilpomado IoT Samsung Innovation Campus
