@@ -1,2 +1,2 @@
-# Introduccion_a_python
-Introduccion a python en el dilpomado IoT Samsung Innovation Campus
+# Basicos_python
+Programas basicos con python en el dilpomado IoT Samsung Innovation Campus
